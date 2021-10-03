@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Winc opdracht </title>
+    </head>
+    <body>
+       <h1> Mijn HTML-basics opdrachten </h1>
+       <hr style="width:50%;text-align:left;margin-left:0">
+       <h2> Taak 1 </h2>
+       <p> In taak 1 moest ik een Header 1, Header 2, Paragraph en een Horizontal rule invoeren in de VS Code Editor. </p>
+       <h2>Taak 2</h2>
+       <p> <b>Een lijstje van drie dingen die ik mooi vind:</b></p>
+       <ul>
+           <li>De kleur donker blauw.</li>
+           <li>Een Rage Rover (auto).</li>
+           <li>Een Chow Chow (hond).</li>
+       </ul>
+       <p> <b>Kort over mezelf:</b> </p>
+       <p>Lees <a href="about.html">hier</a> meer over mezelf.</p>
+
+       <a href="https://www.google.nl/" target="_blank" > Google </a>
+    </body>
+</html>
