@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Winc opdracht </title>
+    </head>
+    <body>
+       <h1> Mijn eerste HTML-basics opdracht </h1>
+       <h2> Taak 1 </h2>
+       <p> In taak 1 moest ik een Header 1, Header 2, Paragraph en een Themetic Break invoeren in de VS Code Editor. </p>
+       <hr style="width:50%;text-align:left;margin-left:0"></hrstyle>
+    </body>
+</html>
