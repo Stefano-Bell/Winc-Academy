@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> About </title>
+    </head>
+<body>
+    <h1> Wie ben ik? </h1>
+    <img src="Foto_van_mezelf.jpg" width="250">
+    <p> 
+        Mijn naam is Stefano Bell. Ik ben een 28 jarige Web Developer uit Amsterdam.
+        <br>Ik richt me voornamelijk op de UI & UX aspecten van een website.
+        <br> Het inplementeren van animatie effecten op websites is mijn specialiteit.
+    </p>
+    <p>Sinds kort doe ik de opleiding Web Developer aan de Winc Academy.
+        <br> Tijdens deze opleiding krijg ik veel te leren over coderen. Daar ben ik ontzettend blij
+        <br> mee, omdat ik dankzij Winc mijn skills als Develeoper kan verbeteren.
+    </p>
+    <p>Ik zal later iets meer over mezelf vertellen.</p>
+
+    <p>Terug naar <a href="index.html">Home pagina</a></p>
+</body>
